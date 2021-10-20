@@ -3,7 +3,7 @@ title: "Organize Your Life With 10 Simple rule"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/post-1.jpg"
+image: "images/featured-post/tom-grunbauer-8_9Rix4OvrM-unsplash cropped.jpg"
 categories: 
   - "Valuable Idea"
 tags:
