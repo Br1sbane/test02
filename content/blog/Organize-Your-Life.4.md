@@ -1,11 +1,11 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
+title: "Blockchain in a nutshell"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
 image: "images/featured-post/ricardo-gomez-angel-ZJMtzxjRnUQ-unsplash cropped.jpg"
 categories: 
-  - "Meine Kategorie"
+ 
 tags:
   - "Fashion"
   - "Nature"

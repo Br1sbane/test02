@@ -1,14 +1,14 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
+title: "Why this website?"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/claudio-schwarz-K8ahHDDh9bM-unsplash cropped.jpg"
+image: "images/featured-post/claudio-schwarz-ibrudgte_cropped.jpg"
 categories: 
-  - "Philosophy"
+
 tags:
-  - "Philosophy"
-  - "Photos"
+  - "Future of HR"
+  - "Blockchain"
 ---
 
 

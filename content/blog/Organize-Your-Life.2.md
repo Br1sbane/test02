@@ -1,11 +1,11 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
+title: "What can we use Blockchain for?"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
 image: "images/featured-post/emil-widlund-xrbbXIXAWY0-unsplash_cropped.jpg"
 categories: 
-  - "Fashion"
+
 tags:
   - "Fashion"
 ---
