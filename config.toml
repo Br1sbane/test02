@@ -51,15 +51,9 @@ url = ""
 weight = 1
 hasChildren = true
 
-  [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 1"
-  url = "homepage/home-1"
+ 
 
-  [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 2"
-  url = "homepage/home-2"
+
 
 [[menu.main]]
 name = "About"
@@ -84,12 +78,12 @@ preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "HR kissed Blockchain"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
 email = "admin(at) futureHRte.ch"
-address = "PO Box 417"
+address = "Rue du Decentralize 24, DAO"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
