@@ -83,7 +83,7 @@ author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
 email = "admin(at) futureHRte.ch"
-address = "Rue du Decentralize 24, DAO"
+address = "Rue du Decentralize 256, DAO Town"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
@@ -95,13 +95,6 @@ copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefis
 enable = true
 expire_days = 2
 
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
 
 [[params.social]]
 icon = "ti-github"

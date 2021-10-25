@@ -15,6 +15,7 @@ tags:
 
 For the sake of making complex topics easy understandable and fun, I make extensive use of oversimplification, analogies and humour 😉
 
+![](../images/post-img.jpg)
 
 •	**dApps**
  are exactly as Apps, just built on a blockchain. There is no company behind and no CEO. Instead, these networks are built, operated, and maintained by their users.
@@ -28,7 +29,7 @@ For the sake of making complex topics easy understandable and fun, I make extens
 
 •	**Immutable**: In a WhatsApp group, everybody can write, but one cannot change the messages of others. If I would like to correct my message, I would write another message and everybody can see the entire history of messages. The same goes for blockchain. Records will be updated with clear traceability. 
 
-•**Interoperability**: Within HR, we are familiar with the problem of having too many HR Systems which do not talk to each other and operate in silos. The same goes for blockchain. Most blockchains do not work across other blockchains. Some of them are specifically designed to operate with other blockchains. The feature of blockchains being able to talk to each other is called interoperability.  
+• **Interoperability**: Within HR, we are familiar with the problem of having too many HR Systems which do not talk to each other and operate in silos. The same goes for blockchain. Most blockchains do not work across other blockchains. Some of them are specifically designed to operate with other blockchains. The feature of blockchains being able to talk to each other is called interoperability.  
 
 
 •	**Open source**: If you publish the receipt of your granny’s famous pumpkin pie, everybody will know it, will be able to check the ingredients and will be able to make it. Open source software works in a similar way: if the code is published, everybody will be able to read it, inspect it, recreate it, improve it etc. The advantage is that one can have full overview if data is being collected without users knowledge or any other “monkey business” is going on.     
@@ -57,7 +58,7 @@ For the sake of making complex topics easy understandable and fun, I make extens
 
 
 
-![](../images/post-img.jpg)
+
 
 
 
