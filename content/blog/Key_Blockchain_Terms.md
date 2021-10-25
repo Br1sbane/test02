@@ -7,7 +7,7 @@ image: "images/featured-post/emil-widlund-xrbbXIXAWY0-unsplash_cropped.jpg"
 categories: 
 
 tags:
-  - "Fashion"
+  -
 ---
 
 
