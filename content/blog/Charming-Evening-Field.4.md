@@ -5,10 +5,10 @@ description: "This is meta description"
 type: "post"
 image: "images/masonary-post/claudio-schwarz-gzJq6U3tH5U-unsplash.jpg"
 categories: 
-  - "Food"
+  - 
 tags:
-  - "Photos"
-  - "Food"
+  -
+  - 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et

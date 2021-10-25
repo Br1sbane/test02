@@ -7,8 +7,8 @@ image: "images/featured-post/ricardo-gomez-angel-Qstchs3VTXM-unsplash cropped.jp
 categories: 
 
 tags:
-  - "Photos"
-  - "Article"
+  -
+  - 
 ---
 
 
