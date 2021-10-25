@@ -17,6 +17,6 @@ My **Vision** is to liberate HR Professionals from administrative burden and thu
 
  The **Mission** of this website is to prepare curious minds for the future of HR by providing short and easily digestible knowledge bites on emerging technologies, particularly on Blockchain.
 
- Disclaimer: the opinions expressed here are of a newbie at the beginning of their blockchain study. My understanding evolved already during the website creation. The content should not be considered as investment advice. Also I do not endorse any company, product or brand, unless specifically stated. 
+ **Disclaimer**: the opinions expressed here are of a newbie at the beginning of their blockchain study. My understanding evolved already during the website creation. The content should not be considered as investment advice. Also I do not endorse any company, product or brand, unless specifically stated. 
 
 

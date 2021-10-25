@@ -19,7 +19,7 @@ tags:
 
 
 
-> **this text already exist**The mission of this website is to prepare curious minds for the future of HR by providing short and easily digestible knowledge bites on emerging technologies, particularly on Blockchain. 
+> What the future holds depends to a greater extent on our vision for the future and how far are we willing to go in order to achieve it. Let's dream together and create a common vision for the future of HR.
 
 
 ![](../images/post-img.jpg)
