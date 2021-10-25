@@ -14,11 +14,12 @@ tags:
 
 A project I am following closely is the Velocity Network Foundation.
 
-Several big companies, among others SAP, SHL, Korn Ferry, Randstad, Kelly Services, have joined forces to create a blockchain solution providing fully verified CV information and credentials records.  
+Several big companies, among others SAP, SHL, Korn Ferry, Randstad, Kelly Services, have joined forces to create a trusted open talent market - a blockchain solution providing fully verified CV information and credentials records.  
 
 
 
-> The website
+> Here is the link to the [Velocity Network Foundation](https://www.velocitynetwork.foundation).
+
 
 How will it work? 
 
@@ -28,7 +29,7 @@ How will it work?
 
 •	Candidates have full control over how their data is shared and used while making sure it is protected and compliant with regulations, such as the GDPR. 
 
-•	The Velocity Network Foundation will work on change management and adoption of the solution. 
+•	The Velocity Network Foundation will ensure smooth solution adoption and the crititcal mass is reached and 
 
 ![](../images/post-img.jpg)
 
