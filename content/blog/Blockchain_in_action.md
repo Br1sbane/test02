@@ -12,7 +12,7 @@ tags:
 ---
 
 
-A project I follow closely is the one from the Velocity Network Foundation.
+A project I follow closely is the one from the **Velocity Network Foundation**.
 
 Several big companies, among others SAP, SHL, Korn Ferry, Randstad, Kelly Services, have joined forces to create a trusted open talent market - a blockchain solution providing fully verified CV information and credentials records.  
 
@@ -32,5 +32,11 @@ How will it work?
 •	The Velocity Network Foundation will ensure smooth product adoption and that the crititcal mass is reached.
 
 ![](../images/post-img.jpg)
-
 Will this be the end of LinkedIn?
+
+**Aetsoft** is another company disrupting modern industries. 
+
+> Excellent visualizations how blockchain improves standard HR processes can be found here [Aetsoft](https://aetsoft.net/solutions/blockchain-hr/)
+![](../images/post-img.jpg)
+
+Currently, they offer advanced solutions for protection of sensitive data, improved hiring processes and streamlined cross-border payroll. 
