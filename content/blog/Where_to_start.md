@@ -20,6 +20,8 @@ A free online course from the [Saylor Academy, Bitcoin for everyone](https://lea
 
 Several free self-paced online courses are available under [EDX.Org](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS170x+2T2021/home). 
 
+The braver ones can try out the lectures of [the Web3 Foundation, Blockchain Fundamentals](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J).
+
 
 
 
