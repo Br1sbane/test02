@@ -36,7 +36,9 @@ Will this be the end of LinkedIn?
 
 **Aetsoft** is another company disrupting modern industries. 
 
-> Excellent visualizations how blockchain improves standard HR processes can be found here [Aetsoft](https://aetsoft.net/solutions/blockchain-hr/)
+> Excellent visualizations how blockchain improves standard HR processes can be found here [Aetsoft](https://aetsoft.net/solutions/blockchain-hr/).
 ![](../images/post-img.jpg)
 
 Currently, they offer advanced solutions for protection of sensitive data, improved hiring processes and streamlined cross-border payroll. 
+
+What is next on Aetsoft roadmap? Digital Identity solution which the potential to remove borders between the EU states.
