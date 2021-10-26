@@ -1,6 +1,6 @@
 ---
 title: "Blockchain in a nutshell"
-date: 2021-27-14T14:46:10+06:00
+date: 2021-10-26T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
 image: "images/featured-post/ricardo-gomez-angel-ZJMtzxjRnUQ-unsplash cropped.jpg"

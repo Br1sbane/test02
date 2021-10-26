@@ -9,6 +9,8 @@ image: "images/jaime-lopes-0RDBOAdnbWM-unsplash.jpg"
 
 Join me on my journey to explore blockchain and its use cases within the Human Resources function. 
 
+From HR to HR.
+
 After more than 13 years learning the ins and outs of Human Resources, I am going back to school to learn blockchain, find out how to marry those two and build a sustainable relationship. 
 
 

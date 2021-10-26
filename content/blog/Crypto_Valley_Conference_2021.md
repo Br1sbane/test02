@@ -1,13 +1,13 @@
 ---
 title: "Crypto Valley Conference 2021"
-date: 2021-10-29T14:46:10+06:00
+date: 2021-10-22T14:46:10+06:00
 description: "This is meta description"
 type: "post"
 image: "images/masonary-post/post-2.jpg"
 categories: 
-  - 
+  -   "News"
 tags:
-  
+  - "Conference"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
