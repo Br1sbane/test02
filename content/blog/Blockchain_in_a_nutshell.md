@@ -12,7 +12,7 @@ tags:
 ---
 
 
-In an mobile app chat group, every participant can add a message. 
+In a mobile app chat group, every participant can add a message. 
 
 If one mobile phone loses the data, all other phones still store it. 
 
@@ -25,7 +25,7 @@ The entire history of messages can be fully reconstructed.
 
 A	blockchain is a **database** which can store any type of information and transactions.
 
-In blockchain, participants can add information which build the **blocks**. The **chain** part of blockchain comes due to the fact that the blocks are connected to each other.  
+In blockchain, participants can add information which build the **blocks**. The **chain** part of blockchain comes from the fact that the blocks are connected to each other.  
 
 In blockchain, there is no corporation operating the network. Instead the group participants keep the network and its data alive. This makes a blockchain **decentralized**. 
 
@@ -33,10 +33,6 @@ If somebody tries to falsify the data, other particpants will notice it quickly 
 
 Participants in the network can view the data only if they have a special decryption key granted by the data owner. This makes a blockchain **highly secure**.
 
-
-
 ![](../images/post-img.jpg)
-
-
-
+In a nutshell, blockchain is the solution we have been waiting for for so long. And it can address main pain points within the HR work.
 
