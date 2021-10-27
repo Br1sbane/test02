@@ -29,7 +29,7 @@ As new technologies bring more and more changes to the daily HR work, HR profess
 
 They can either continue working the traditional way and witness how their skills become obsolete or they can proactively educate themselves on these emerging technologies and co-shape the development of the new ways of working. 
 
-I believe in the power of the HR Professionals evolving in the wake of emerging technologies. And despite the fact that so much educational information is available for free, the barriers to enter the blockchain space are rather high, mostly due to the technocal, rather complex language used. 
+I believe in the power of the HR Professionals evolving in the wake of emerging technologies. And despite the fact that so much educational information is available for free, the barriers to enter the blockchain space are rather high, mostly due to the technical, rather complex language used. 
 
 On this website, designed from HR for HR, you will learn what blockchain can bring to you and to the HR function. 
 

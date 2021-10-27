@@ -11,7 +11,7 @@ tags:
 ---
 
 
-> You don’t need to understand the technology behind in order to understand what the technology can bring to you. At the same time, when you start researching the topic yourself, you will encounter a lot of terms which will be explained below. 
+> You don’t need to understand the technology behind blockchain in order to learn what can bring this technology to you. At the same time, if you start researching the topic on your own, you will encounter a lot of terms which will be explained below. 
 
 For the sake of making complex topics easy understandable and fun, I make extensive use of oversimplification and daily life analogies.
 
