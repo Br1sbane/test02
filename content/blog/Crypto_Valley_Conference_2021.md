@@ -10,12 +10,12 @@ tags:
   - "Conference"
 ---
 
-My first live contact to the blockchain community is the Crypto Valley Conference 2021. 
+My first live contact with the blockchain community is the Crypto Valley Conference 2021. 
 
 Here are my key takeaways:
 
 
-> One Two Three Four Five
+> Coming soon
 
 
 ![](../images/post-img.jpg)
