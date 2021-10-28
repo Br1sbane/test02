@@ -38,7 +38,10 @@ For the sake of making complex topics easy understandable and fun, I make extens
 •	**Peer-to-peer (P2P) network**: When computers are connected directly to each other without a central server. 
 
 
-•	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it for investments, loans and who knows what else. If the bank misinvests, you might even lose your money. Blockchain eliminates this risk by removing the need for a bank. Users educate themselves how to take proper care of their digital assets and are empowered to take control of their data and crypto asstes.  
+•	**NFT** (non-fungible token) is contemporary digital art stored on a blockchain. Some people question the NFT value as art. Usually, NFTs are collectible items e.g. animated animals priced at several tausend USD.  
+
+
+•	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it for investments, loans and who knows what else. If the bank misinvests, in worst case scenario you might even lose your money. Blockchain eliminates this risk by removing the need for a bank. With blockchain, users have advanced knowledge of how to protect their data and their digital assets.  
 
 
 •	**Smart Contract**: The conditions of a classical contract (if you deliver service X to me, I will pay you amount Y.) can be programmed on a blockchain. Once the event is confirmed, the payment (or the preagred transaction) is triggered automatically with the nice side effect of being fast and cost efficient.  
