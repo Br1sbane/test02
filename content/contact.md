@@ -3,6 +3,8 @@ title: "Contact"
 description: "This is meta description"
 image: "images/avel-chuklanov-DUmFLtMeAbQ-unsplash.jpg"
 layout: "contact"
+
+
 ---
 Hey, there are real people visiting my website!
 

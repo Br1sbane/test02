@@ -5,7 +5,7 @@ description: "This is meta description"
 type: "post"
 image: "images/masonary-post/clay-banks-GX8KBbVmC6c-unsplash.jpg"
 categories: 
-  - "Advice for newbies"
+  - "Advice for beginners"
 tags:
   - "Free educational materials"
 ---
