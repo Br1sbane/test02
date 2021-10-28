@@ -55,11 +55,11 @@ In cases of repetitive transactions such as contractors’ payments, payroll etc
 Employment contracts might include specific payment conditions or waiting time for certain benefits. Examples could be:
 
 
-1. sign-on bonus after the successful completion of the probation period
-2. certain percentage of salary increase after 1 year of employment
-3. allowances with validity start date after a specified waiting period
-4. Bonus calculation and payout based on predefined KPIs
-5. Automated employee record deletion as per the applicable record retention policy  
+1. a) sign-on bonus after the successful completion of the probation period
+2. b) certain percentage of salary increase after 1 year of employment
+3. c) allowances with validity start date after a specified waiting period
+4. d) bonus calculation and payout based on predefined KPIs
+5. e) automated employee record deletion as per the applicable record retention policy  
 
 Instead of manually calculating and monitoring these cases, these conditions can be coded on the blockchain via smart contract. Once the condition is met, an automated procedure will be triggered which will execute the pre-agreed outcome. 
 
