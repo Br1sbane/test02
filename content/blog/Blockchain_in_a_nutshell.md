@@ -13,9 +13,9 @@ tags:
 ---
 In what kind of world do we want to live in? 
 
->  Dare to dream of a world where everybody has a say. A world where we can trust each other. A world where data and transactions are carried out in a secure and transparent way, exposing corruption, fraud and inefficiencies. A world where empowered individuals control their data and their destinies. 
+>  Dare to dream of a world where everybody has a say. A world where we can trust each other. A world where transactions are carried out in a secure and transparent way, exposing corruption, fraud and inefficiencies. A world where empowered individuals control their data and their destinies. 
 
-Blockchain was invented as an answer to this dream and proposes technical solutions to many world issues. 
+Blockchain was invented as an answer to this dream and proposes technical solutions to many burning issues. 
 
 ![](../images/post-img.jpg)
 
@@ -29,11 +29,11 @@ In blockchain, there is no corporation operating the network. Instead the group 
 
 If somebody tries to falsify the data, other particpants will notice it quickly and will dismiss the manipulated version of the data. This makes a blockchain **immutable**.  
 
-Participants in the network can view the data only if they have a special decryption key granted by the data owner. This makes a blockchain **highly secure**.
+Indivicuals own their data, not corporations. Participants in the network can view data only if they have a special decryption key granted by the data owner. This makes a blockchain **highly secure**. **Data privacy** is ensured.
 
 There are no entry barriers and everybody can participate without any approvals required. This makes a blockchain **truly inclusive**.
 
 Participants define in advance what good behaviour looks like and code it into the blockcchain (**consensus algortithm**). Participants with special equipment (**miners**) monitor the bahaviour on the blockcahin, incentivize behaviour according to the rules and sanction behaviour not following the rules. 
 
-In a nutshell, blockchain is a solution addressing several problems at once. 
+In a nutshell, blockchain is a solution addressing several pain points of our private and professional lives. 
 
