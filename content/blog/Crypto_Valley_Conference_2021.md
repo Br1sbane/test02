@@ -41,6 +41,6 @@ Here are my impressions under following topics:
 
 5. A traditional institution such as the **Swiss National Bank** is very well prepared for the blockchain future and have already their concept of CBDCs. 
 
-6. The significance of **universities** to drive awareness, understanding and business adoption continues to be high. 
+6. Despite plenty of free educational materials online, the significance of **universities** to drive awareness, understanding and business adoption continues to be high. 
 
 
