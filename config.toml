@@ -95,7 +95,3 @@ copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefis
 enable = true
 expire_days = 2
 
-
-[[params.social]]
-icon = "ti-github"
-link = "#"

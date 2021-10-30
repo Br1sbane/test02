@@ -10,7 +10,7 @@ tags:
   - "Conference"
 ---
 
-My first live contact with the blockchain community was the Crypto Valley Conference 2021 in at the HSLU in Rotkreuz. 
+My first live contact with the blockchain community was the Crypto Valley Conference 2021 at the HSLU in Rotkreuz. 
 
 
 
