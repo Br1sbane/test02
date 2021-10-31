@@ -32,15 +32,15 @@ Here are my impressions under following topics:
 
 ![](../images/post-img.jpg)
 
-1. Local politicians, bankers, CEOs, academia, artists, private investors, students were amongst the guests. Involving a wide range of **stakeholders** will ensure common understanding and adoption.   
+1. Local politicians, bankers, CEOs, academia, artists, private investors and students were amongst the guests. If you compare this with the strong opposition from other governments or traditional institutions, **stakeholder management** in Switzerland has been brought to a new level.   
 
-2. If I compare the participants of the Crypto Valley conference with the PMI Project Management Conferencece, it becomes clear that there was a **highly engaged crypto communnity** with topics appealing to many young people with very diverse backgrounds. Also the attendance was 4 times higher than the Project Management conference. 
+2. Compared to the participants of of the PMI Project Management Conferencece, it seems that the **crypto community is highly engaged** with topics appealing to many young people with very diverse backgrounds. 
 
-3. Successful business people can turn an exciting topic into a deadly boring presentation by ignoring their **audience**.  
+3. Even if you are a successful businessman/woman, you can still turn an exciting topic into a deadly boring presentation by not taking into consideration your **audience**.  
 
 4. **NFTs (digital art)** can be so much more than funny animals.
 
-5. A traditional institution such as the **Swiss National Bank** is very well prepared for the blockchain future and have already their concept of CBDCs. 
+5. A traditional institution such as the **Swiss National Bank** is very well prepared for the blockchain future and has already their CBDC concept ready. 
 
-6. Despite plenty of free educational materials online, most organizations are slightly behind with their blobkchain understanding. Nevertheless, different players such as governmnents, regulatory bodies, layers, tax advisors and finance institutions start exploring this space. The significance of **universities** to drive awareness, understanding and business adoption was highlighted during the sessions. 
+6. Despite plenty of free educational materials online, most organizations are still behind with their blobkchain understanding. Nevertheless, different players such as governmnents, regulatory bodies, layers, tax advisors and finance institutions start exploring this space. The significance of **universities** to drive awareness, understanding and business adoption was highlighted during the sessions. 
 
