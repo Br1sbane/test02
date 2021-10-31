@@ -50,6 +50,9 @@ For the sake of making complex topics easy understandable and fun, I make extens
 •	**Trusted intermediaries**: These are the people who we rely on to complete a transaction e.g. banks, brokers etc. The promise of blockchain is to eliminate these completely. You might have heard: Banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers etc.. The blockchain connects sellers and buyers directly without the need for any central party. 
 
 
+•	**Trustless**: It was very difficult for me to comprehend why trustless might be a positive feature. From blockchain perspective, this term describes the fact that blockchain transactions can be carried out without an approval from a bank, lawyer or any other middleman. Even if seller and buyers do not know each other, the blockchain algorithm ensures that the transaction will be completed.    
+
+
 •	**Web3** (also «decentralized web», «fair internet» or “next generation internet”): If you have enough from being tracked across all your smart devices, you will love the Web3 vision. The concept is based on surprise surprise blockchain where internet is a distributed network without any central player collecting, storing and selling your data. Web3 “gives the power back to the people”. Users control their own data. They can hold and transfer digital copyrights, digital currencies, digital art etc. without the need for lawyers, banks or authorized dealers. 
 
 
