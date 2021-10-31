@@ -17,6 +17,6 @@ My **Vision** is to liberate HR Professionals from administrative burden and thu
 
  **Disclaimer**: The opinions expressed here are of a newbie at the beginning of their blockchain study. My understanding has evolved already during the website creation and it will continue evolving. 
  
- The content should be considered as appetizer to learn more. I do not provide investment or consultation advice. Also I do not endorse any company, product or brand, unless specifically stated. 
+ The content should be considered as appetizer to learn more. I do not provide investment or consultation advice. I do not represent any organizations and I do not endorse any company, product or brand, unless specifically stated. 
 
 
