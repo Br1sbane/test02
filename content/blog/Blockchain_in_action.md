@@ -29,7 +29,7 @@ How will it work?
 
 •	Candidates will have full control over how their data is shared and used.  
 
-•	The Velocity Network Foundation will ensure smooth product adoption and that the critical mass is reached.
+•	The Velocity Network Foundation will establish the industry standards and ensure smooth product adoption. With their size, the critical mass will be reached rather quickly.
 
 ![](../images/post-img.jpg)
 Will this be the end of LinkedIn?
