@@ -35,5 +35,5 @@ There are no entry barriers and everybody can participate without any approvals 
 
 Participants define in advance what good behaviour looks like and code it into the blockcchain (**consensus algortithm**). Participants with special equipment (**miners**) monitor the bahaviour on the blockcahin, incentivize behaviour according to the rules and sanction behaviour not observing the rules. 
 
-In a nutshell, blockchain is a solution which can improve both, our private and our professional life. 
+In a nutshell, blockchain is a solution which can improve both, our private and our professional life and opens the door for new business models. 
 
