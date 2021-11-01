@@ -10,6 +10,8 @@ tags:
   - "Free educational materials"
 ---
 
+ If you have decided to go down the rabbit hole, congratulations! I have some suggestions for you:
+ 
  A thought provoking podcast questioning the status quo ways of working in Finance:  A 10 min episode [The Accountant Quits](https://theaccountantquits.com/episode-6-why-are-accountants-not-being-taught-information-technology/)
 
 One of the first non-technical book on the topic I have read: [The Future of everything by Michael J. Casey](https://www.goodreads.com/en/book/show/34964890-the-truth-machine).
