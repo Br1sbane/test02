@@ -22,6 +22,7 @@ My first live contact with the blockchain community was the Crypto Valley Confer
 Here are my impressions under following topics:
 
 
+> 1. Hype vs. value creation
 > 1. Stakeholders
 > 2. Crypto community
 > 3. Audience focus 
@@ -32,6 +33,9 @@ Here are my impressions under following topics:
 
 ![](../images/post-img.jpg)
 
+
+1. There are many high-tech products out there and one has to look closer in order to distinguish the hype from the real value for the enterprises.   
+
 1. Local politicians, bankers, CEOs, academia, artists, private investors and students were amongst the guests. If you compare this with the strong opposition from other governments or traditional institutions, **stakeholder management** in Switzerland has been brought to a new level.   
 
 2. Compared to the participants of of the PMI Project Management Conferencece, it seems that the **crypto community is highly engaged** with topics appealing to many young people with very diverse backgrounds. 
@@ -40,7 +44,7 @@ Here are my impressions under following topics:
 
 4. **NFTs (digital art)** can be so much more than funny animals.
 
-5. A traditional institution such as the **Swiss National Bank** is very well prepared for the blockchain future and has already their CBDC concept ready. 
+5. A traditional institution such as the **Swiss National Bank** is very well prepared for the blockchain future and has already their CBDC concept ready (including how to apply negative interest rates to it). 
 
 6. Despite plenty of free educational materials online, most organizations are still behind with their blobkchain understanding. Nevertheless, different players such as governmnents, regulatory bodies, layers, tax advisors and finance institutions start exploring this space. The significance of **universities** to drive awareness, understanding and business adoption was highlighted during the sessions. 
 
