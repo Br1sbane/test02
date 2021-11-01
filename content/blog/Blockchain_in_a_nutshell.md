@@ -13,15 +13,15 @@ tags:
 ---
 In what kind of world do we want to live in? 
 
->  Dare to dream of a world where everybody has a say. A world where we can trust each other. A world where transactions are carried out in a secure and transparent way, exposing corruption, fraud and inefficiencies. A world where empowered individuals control their data and their destinies. 
+>  Dare to dream of a world where everybody has a say. A world where we can collaborate successfully with each other without knowing each other. A world where transactions are carried out in a secure and transparent way, exposing corruption, fraud and inefficiencies. A world where empowered individuals control their data and their destinies. 
 
-Blockchain was invented as an answer to this dream and proposes technical solutions to many burning issues. 
+Blockchain has been invented as an answer to this dream and proposes technical solutions to many burning issues. 
 
 ![](../images/post-img.jpg)
 
 ##### How does it work?
 
-A	blockchain is a **database** which can store any type of information and transactions. Participants can add content, but cannot go back and change the history. You can think of a chat group where every participant can add a message. If one paricipants drops, all othersn stillave a copy of the data. Everybody sees the messages in real-time. The entire history of messages can be fully reconstructed. Blockchain can do the same for more complex transactions in a way more sophisticated shape and form.
+A	blockchain is a **database** which can store any type of information and transactions. Participants can add content, but cannot go back and change the history. You can think of a chat group where every participant can add a message. If one paricipants drops, all othersn still have a copy of the data. Everybody sees the messages in real-time. The entire history of messages can be fully reconstructed. Blockchain can do the same for more complex transactions in a way more sophisticated shape and form.
 
 In blockchain, participants can add information which build the **blocks**. The **chain** part of blockchain comes from the fact that the blocks are connected to each other.  
 
@@ -33,7 +33,7 @@ Indivicuals own their data, not corporations. Participants in the network can vi
 
 There are no entry barriers and everybody can participate without any approvals required. This makes a blockchain **truly inclusive**.
 
-Participants define in advance what good behaviour looks like and code it into the blockcchain (**consensus algortithm**). Participants with special equipment (**miners**) monitor the bahaviour on the blockcahin, incentivize behaviour according to the rules and sanction behaviour not following the rules. 
+Participants define in advance what good behaviour looks like and code it into the blockcchain (**consensus algortithm**). Participants with special equipment (**miners**) monitor the bahaviour on the blockcahin, incentivize behaviour according to the rules and sanction behaviour not observing the rules. 
 
-In a nutshell, blockchain is a solution addressing several pain points of our private and professional lives. 
+In a nutshell, blockchain is a solution which can improve both, our private and our professional life. 
 
