@@ -11,7 +11,7 @@ Join me on my journey to explore blockchain and its use cases within the Human R
 
 From HR to HR.
 
-My **Vision** is to liberate HR Professionals from administrative burden and thus enable them to focus on empowering people to make the strategy reality.
+My **Vision** is to liberate HR Professionals from administrative burden and thus enable them to focus on empowering people to turn strategy into reality.
 
  The **Mission** of this website is to prepare curious minds for the future of HR by providing short and easily digestible knowledge bites on emerging technologies, particularly on Blockchain.
 
