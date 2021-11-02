@@ -13,9 +13,9 @@ tags:
 ---
 In what kind of world do we want to live in? 
 
->  Dare to dream of a world where everybody has a say. A world where we can collaborate successfully with each other without knowing each other. A world where transactions are carried out in a secure and transparent way, exposing corruption, fraud and inefficiencies. A world where empowered individuals control their data and their destinies. 
+>  Dare to dream of a world where everybody has a say. A world where we can collaborate successfully with each other without knowing each other. A world where business is carried out in a secure and transparent way, exposing corruption, fraud and inefficiencies. A world where empowered individuals control their data and their destinies. 
 
-Blockchain has been invented as an answer to this dream and proposes technical solutions to many burning issues. 
+Blockchain has been invented as an answer to this dream and proposes technical solutions to many of today's challenges. 
 
 ![](../images/post-img.jpg)
 
@@ -35,5 +35,5 @@ There are no entry barriers and everybody can participate without any approvals 
 
 Participants define in advance what good behaviour looks like and code it into the blockcchain (**consensus algortithm**). Participants with special equipment (**miners**) monitor the bahaviour on the blockcahin, incentivize behaviour according to the rules and sanction behaviour not observing the rules. 
 
-In a nutshell, blockchain is a solution which can improve both, our private and our professional life and opens the door for new business models. 
+In a nutshell, blockchain is a solution which can improve both, our private and our professional lifes and opens the door for new business models. 
 
