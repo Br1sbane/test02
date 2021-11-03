@@ -41,7 +41,7 @@ For the sake of making complex topics easy understandable and fun, I make extens
 •	**NFT** (non-fungible token) is contemporary digital art stored on a blockchain. Some people question the NFT value as art. Usually, NFTs are collectible items e.g. animated animals priced at several tausend USD.  
 
 
-•	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it (without asking you) for investments, loans, bankers bonuses. If the bank misinvests, in worst case scenario you might even lose your money. Blockchain eliminates this risk, takes the power away from the banks (and any other intermediaries) and gives it to the owners who are usually advanced users empowerd to protect their data and their digital assets on their own.  
+•	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it (without asking you) for investments, loans, lavish parties... If the bank misinvests, in worst case scenario you might even lose your money. Blockchain eliminates this risk, takes the power away from the banks (and any other intermediaries) and gives it to the owners who are usually advanced users empowerd to protect their data and their digital assets on their own.  
 
 
 •	**Smart Contract**: The conditions of a classical contract (if you deliver service X to me, I will pay you amount Y.) can be programmed on a blockchain. Once the event is confirmed, the payment (or the preagred transaction) is triggered automatically with the nice side effect of being fast and cost efficient.  
