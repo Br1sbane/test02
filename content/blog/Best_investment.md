@@ -1,5 +1,5 @@
 ---
-title: "Best investment in 2021: BTS and ETN"
+title: "Best Investment in 2021: BTS and ETN"
 date: 2021-11-04T14:46:10+06:00
 description: "This is meta description"
 type: "post"
@@ -33,9 +33,9 @@ What might sound like cryptocurrencies, to the great disappointment of those who
 
 Without these, we can keep on hodling (special expression for holding crypto) and dreaming of crypto prices shooting to the moon. And for most of us, the dream will stay just a dream. 
 
-Today, I am going back to school to equip myself with the knowledge required for the blockchain age.
+Today, I am going back to school to equip myself with the knowledge and practice required for the blockchain age.
 
-Constant upskilling and reskilling is the most crucial factor to stay relevant in the job market.  
+Constant upskilling and reskilling is the most crucial factor to stay relevant in the blockchain world and in the job market.  
 
 And this is the best investment advice not only for 2021 but for your entire life. 
 
