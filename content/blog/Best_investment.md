@@ -3,7 +3,7 @@ title: "Best Investment in 2021: BTS and ETN"
 date: 2021-11-04T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/greg-rakozy-oMpAz-DN-9I-unsplash_small.jpg"
+image: "images/greg-rakozy-oMpAz-DN-9I-unsplash_diagonal.jpg"
 categories: 
   - "Not Financial Advice"
 tags:
