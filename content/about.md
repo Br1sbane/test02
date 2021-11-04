@@ -5,18 +5,18 @@ description: "This is meta description"
 image: "images/jaime-lopes-0RDBOAdnbWM-unsplash.jpg"
 ---
 
-### Hello, I am an HR Professional, a Project Manager and a Blockchain enthusiast
+### Hello, I am a HR Professional, a Project Manager, and a Blockchain enthusiast
 
 Join me on my journey to explore blockchain and its use cases within the Human Resources function. 
 
 From HR to HR.
 
-My **Vision** is to liberate HR Professionals from administrative burden and thus enable them to focus on empowering people to turn strategy into reality.
+My **Vision** is to liberate HR Professionals from the administrative burden and thus enable them to focus on empowering people to turn strategy into reality.
 
  The **Mission** of this website is to prepare curious minds for the future of HR by providing short and easily digestible knowledge bites on emerging technologies, particularly on Blockchain.
 
- **Disclaimer**: The opinions expressed here are of a newbie at the beginning of their blockchain study. My understanding has evolved already during the website creation and it will continue evolving. 
+ **Disclaimer**: The opinions expressed here are of a newbie at the beginning of their blockchain study. My understanding has evolved already during the website creation, and it will continue evolving. 
  
- The content should be considered as appetizer to learn more. I do not provide investment or managerial consulting advice. I do not represent any organizations and I do not endorse any company, product or brand, unless specifically stated. 
+ The content should be considered as an appetizer to learn more. I do not provide investment or managerial consulting advice. I do not represent any organizations and do not endorse any company, product or brand, unless specifically stated. 
 
 
