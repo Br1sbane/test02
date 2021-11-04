@@ -33,7 +33,7 @@ What might sound like cryptocurrencies, to the great disappointment of those who
 
 Without these, we can keep on hodling (special expression for holding crypto) and dreaming of crypto prices shooting to the moon. And for most of us, the dream will stay just a dream. 
 
-Today, I am going back to school to equip myself with the knowledge and practice required for the blockchain age.
+Tomorrow, I am going back to school to equip myself with the knowledge and practice required for the blockchain age.
 
 Constant upskilling and reskilling is the most crucial factor to stay relevant in the blockchain world and in the job market.  
 
