@@ -31,13 +31,15 @@ What might sound like cryptocurrencies, to the great disappointment of those who
 1. BTS is my abbreviation for **Back to School**.
 1. ETN stands for **Education**.
 
-Without these, we can keep on hodling (special expression for holding crypto) and dreaming of crypto prices shooting to the moon. And for most of us, the dream will stay just a dream. 
+Without these, we can keep on hodling (special expression for holding bitcoin and other cryptos as a store of value) and dreaming of prices going up ("to the moon"). And for most of us, the dream will remain just a dream. 
 
 Tomorrow, I am going back to school to equip myself with the knowledge and practice required for the blockchain age.
 
 Constant upskilling and reskilling is the most crucial factor to stay relevant in the blockchain world and in the job market.  
 
 And this is the best investment advice not only for 2021 but for your entire life. 
+
+
 
 
 
