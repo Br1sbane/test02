@@ -1,5 +1,5 @@
 ---
-title: "Blockchain in a nutshell"
+title: "Blockchain in a Nutshell"
 date: 2021-10-26T14:46:10+06:00
 description: "This is meta description"
 type: "featured"

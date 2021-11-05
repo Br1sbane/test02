@@ -1,5 +1,5 @@
 ---
-title: "Blockchain in action"
+title: "Blockchain in Action"
 date: 2021-10-25T14:46:10+06:00
 description: "This is meta description"
 type: "featured"

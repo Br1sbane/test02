@@ -1,5 +1,5 @@
 ---
-title: "Where to start my blockchain journey"
+title: "Where to start my Blockchain Journey"
 date: 2021-10-21T14:46:10+06:00
 description: "This is meta description"
 type: "post"
