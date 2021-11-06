@@ -26,7 +26,7 @@ And if so, how to plan for such a timeframe?
 
 My answer is clear: Invest in **BTS** and **ETN**.
 
-What might sound like cryptocurrencies, to the great disappointment of those who dream of becoming rich without getting out of bed, is not.
+Does it sound like cryptocurrencies? To the great disappointment of those who dream of becoming rich without getting out of bed, they are not.
 
 1. BTS is my abbreviation for **Back to School**.
 1. ETN stands for **Education**.
