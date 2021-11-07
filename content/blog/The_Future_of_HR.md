@@ -19,19 +19,25 @@ tags:
 
 
 
-> What the future holds depends to a greater extent on our vision for the future and how far we are willing to go to achieve it. 
-Let's dream together and create a common vision for the future of HR.
+> 1. How to dedicate more time to find, develop and recognize talent?
+> 2. How to reduce the amount of paper work generated? 
+> 3. How to deliver wow employee experience?
+> 4. How safe are central servers for storing people related data?
 
 
 ![](../images/post-img.jpg)
 
-As new technologies bring more and more changes to the daily HR work, HR professionals have the choice: 
 
-They can either continue working the traditional way and witness their skills become obsolete, or they can proactively educate themselves on these emerging technologies and co-shape the development of the new ways of working. 
 
-I believe in the power of the HR Professionals evolving in the wake of emerging technologies. And despite the fact that so much educational information is available for free, the barriers to entering the blockchain space are rather high, mostly due to the technical, rather a complex language used. 
+Technology, blockchain in particular, can help us find answers to these questions. 
 
-On this website, designed from HR for HR, you will learn what blockchain can bring to you and the HR function. 
+Altough nowadays free education is widely available, who understands this complex language? 
+
+High time to change this. 
+
+This website is designed from HR to HR.  
+
+Here, you will learn in an easy and entertaining way how blockchain will fudnamentaly change the daily business and elevate the Human Resources function. 
 
 By embracing the blockchain concept, not only will we evolve as HR Professionals, but we will also reinvent the employee experience. 
 
