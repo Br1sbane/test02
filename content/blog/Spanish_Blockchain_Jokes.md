@@ -1,6 +1,6 @@
 ---
 title: "Chistes de Blockchain en Español"
-date: 2021-11-05T14:46:10+06:00
+date: 2021-11-07T14:46:10+06:00
 description: "This is meta description"
 type: "post"
 image: "images/helena-lopes-e3OUQGT9bWU-unsplash_cut.jpg"
