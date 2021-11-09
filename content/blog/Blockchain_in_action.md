@@ -34,11 +34,11 @@ How will it work?
 ![](../images/post-img.jpg)
 Will this be the end of LinkedIn? We will see. 
 
-**Aetsoft** is another company disrupting modern industries. 
+**Aetsoft** is another company disrupting modern industries by offering blockchain based solutions for protecting sensitive personal data, improved hiring processes, and streamlined cross-border payroll. 
 
 > Excellent visualizations of how blockchain improves traditional HR processes can be found here [Aetsoft](https://aetsoft.net/solutions/blockchain-hr/).
 ![](../images/post-img.jpg)
 
-They currently offer advanced solutions for protecting sensitive personal data, improved hiring processes, and streamlined cross-border payroll. 
+**In educational sector**, blockchain has also its place. Swiss universities have incorporated Blockchain as a topic in the business and IT curricula. Some of them also accept bitcoin for payments.  
 
-What is next on the Aetsoft roadmap? Digital Identity solution with the potential to "remove borders between the EU states."
+The Basel University issues their certificates digitally on blockchain. The same is done also in Singapore and South Africa. This puts an end of the photoshopped credentials, as it can be verified immediately. 
