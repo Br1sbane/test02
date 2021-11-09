@@ -39,6 +39,6 @@ Will this be the end of LinkedIn? We will see.
 > Excellent visualizations of how blockchain improves traditional HR processes can be found here [Aetsoft](https://aetsoft.net/solutions/blockchain-hr/).
 ![](../images/post-img.jpg)
 
-**In educational sector**, blockchain has also its place. Swiss universities have incorporated Blockchain as a topic in the business and IT curricula. Some of them also accept bitcoin for payments.  
+**In educational sector**, blockchain has also its place. Swiss universities have incorporated Blockchain as a subject in the business and IT curricula. Some of them also accept bitcoin for payments.  
 
 The Basel University issues their certificates digitally on blockchain. The same is done also in Singapore and South Africa. This puts an end of the photoshopped credentials, as it can be verified immediately. 
