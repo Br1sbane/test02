@@ -37,7 +37,6 @@ Will this be the end of LinkedIn? We will see.
 How about finding a gig on the blockchain? **Braintrust** is the first decentralized talent network. Freelancers find their cleints without any corporation between them. The platform is owned by the users. And this becomes visible with the paycheck.
 
 >  Check out the [Braintrust platform](https://www.usebraintrust.com/).
-
 ![](../images/post-img.jpg)
 
 
