@@ -34,6 +34,11 @@ How will it work?
 ![](../images/post-img.jpg)
 Will this be the end of LinkedIn? We will see. 
 
+How about finding a gig on the blockchain? **Braintrust** is the first decentralized talent network. Freelancers find their cleints without any corporation between them. The platform is owned by the users. And this becomes visible with the paycheck. Check out the [Braintrust platform](https://www.usebraintrust.com/).
+
+![](../images/post-img.jpg)
+
+
 **Aetsoft** is another company disrupting modern industries by offering blockchain based solutions for protecting sensitive personal data, improved hiring processes, and streamlined cross-border payroll. 
 
 > Excellent visualizations of how blockchain improves traditional HR processes can be found here [Aetsoft](https://aetsoft.net/solutions/blockchain-hr/).
