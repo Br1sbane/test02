@@ -27,7 +27,8 @@ There are many scenarios where blockchain can add real value to HR.
 > 4. Employment contract conditions and benefits
 > 5. Audit
 > 6. Real-time reporting
-> 7. Employees without bank accounts
+> 7. Unstable currencies
+> 8. Employee demand
  
 
 ![](../images/post-img.jpg)
@@ -75,6 +76,11 @@ Instead of reviewing many copies of documents, auditors can receive access to th
 If all people's data is stored on a blockchain, Headcount and other important metrics will be reconciled automatically without delay or extra effort. 
 
 
-##### **Employees without bank accounts**
+##### **Unstable currencies**
 
-The so-called unbanked people (without access to Financial services) can get paid in cryptocurrency via mobile phone apps.
+High inflation is a concern for many people around the globe. An elegant solution to it would be a salary in cryptocurrency.
+
+
+##### **Employee demand**
+
+More and more employees consider and proactively ask to receve at least a portion of their salary in cryptocurrency. This is also a way how a company can attract professionals with fintech skills.
