@@ -17,7 +17,7 @@ Also happy to receive feedback, comments, questions and suggestions.
 
 Inquiries from generous sponsors will be addressed with utmost priority.
 
-##### contact form under construction
+##### While the contact form is being build, please use the e-mail stated in the footnote.
 <br><br>
 
 
