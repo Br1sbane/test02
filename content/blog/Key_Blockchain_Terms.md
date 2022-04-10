@@ -18,10 +18,12 @@ To make complex topics easy, understandable, and fun, I use oversimplification a
 ![](../images/post-img.jpg)
 
 •	**dApps**
- are Apps built on a blockchain. There is no company behind and no CEO. Instead, these networks are built, operated, and maintained by their users.
+ are Apps which look the same for the end-user but are built on a blockchain. There is no company behind and no CEO. Instead, these networks are built, operated, and maintained by their users.
 
 
-•	**Decentralization**: As the old saying goes, do not put all eggs in one basket. This is what blockchain is doing. Every basket is a user. And data is spread across a large network of computers. If one of those computers stops working, the remaining computers store the same data.
+•	**Decentralization**: If there are as many owners as users, the power is shared among all participants. This ensures that only changes, that the majority of the users are in favor of, have a chance of being implemented. 
+
+As the old saying goes, do not put all eggs in one basket. This is what blockchain is doing. Every basket is a user. And data is spread across a large network of computers. If one of those computers stops working, the remaining computers store the same data and will ensure the blockchain functioning.
 
 
 •	**Distributed ledger technology (DLT)** is another word for blockchain.
