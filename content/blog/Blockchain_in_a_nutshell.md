@@ -33,7 +33,7 @@ Individuals own their data, not corporations. Participants in the network can vi
 
 There are no entry barriers, and everybody can participate without any approvals required. This makes a blockchain **truly inclusive**.
 
-Participants define in advance what good behaviour looks like and code it into the blockchain (**consensus algorithm**). Participants with special equipment (**miners**) monitor the behaviour on the blockchain, incentivize behaviour according to the rules, and sanction behaviour not observing the rules. 
+Participants define in advance what good behaviour looks like and code it into the blockchain. Participants with special equipment (**miners**) monitor the behaviour on the blockchain, incentivize behaviour according to the rules, and sanction behaviour not observing the rules. 
 
 In a nutshell, blockchain is a solution that can improve both our private and our professional lives and open the door for new business models. 
 
