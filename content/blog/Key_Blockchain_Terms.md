@@ -26,7 +26,7 @@ To make complex topics easy, understandable, and fun, I use oversimplification a
 As the old saying goes, do not put all eggs in one basket. This is what blockchain is doing. Every basket is a user. And data is spread across a large network of computers. If one of those computers stops working, the remaining computers store the same data and will ensure the blockchain functioning.
 
 
-•	**Distributed ledger technology (DLT)** is another word for blockchain.
+•	**Distributed ledger technology (DLT)** is an umbrella term for various technologies including blockchain.
 
 
 •	**Immutable**: I bet people will notice it rather quickly if you try to remove a brick from a lower brick wall layer. The same goes for blockchain. Users can add transactions that are placed over one another in a brick wall style. Changing a record (**tampering**) from a lower layer of the blockchain will not go unnoticed and will be sanctioned by the users.  
@@ -40,7 +40,7 @@ As the old saying goes, do not put all eggs in one basket. This is what blockcha
 •	**Peer-to-peer (P2P) network**: When computers are connected directly to each other without a central server. 
 
 
-•	**NFT** (non-fungible token) is contemporary digital art stored on a blockchain. Some people question the NFT value as art. Usually, NFTs are collectable items, e.g., animated animals, priced at several thousand USD.  
+•	**NFT** (non-fungible token) is the digital certificate of ownership, e.g. contemporary digital art stored on a blockchain. Some people question the NFT value as art. Usually, NFTs are collectable items, e.g., animated animals, priced at several thousand USD, but it could be also music or a representation of a real-life object.  
 
 
 •	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it (without asking you) for investments, loans, lavish parties... If the bank misinvests, in the worst case scenario, you might even lose your money. Blockchain eliminates this risk, takes power away from the banks (and any other intermediaries), and gives it back to the owners, who are usually advanced users empowered to protect their data and their digital assets on their own.  
@@ -55,7 +55,7 @@ As the old saying goes, do not put all eggs in one basket. This is what blockcha
 •	**Trustless**: It was very difficult for me to comprehend why trustless might be a positive feature. From a blockchain perspective, this term describes that blockchain transactions can be carried out without approval from a bank, lawyer, or any other middleman. Even if sellers and buyers do not know each other, the blockchain algorithm ensures that the transaction will be completed.     
 
 
-•	**Web3** (also «decentralized web», «fair internet», or “next-generation internet”): If you have enough from being tracked across all your smart devices, you will love the Web3 vision. The concept is based on surprise surprise ;) blockchain, where the internet is a distributed network without any central player collecting, storing, and selling your data. Web3 “gives the power back to the people.” Users control their own data. They can hold and transfer digital copyrights, digital currencies, digital art, etc., without the need for lawyers, banks, or authorized dealers. 
+•	**Web3** (also «decentralized web», «fair internet», or “next-generation internet”): The concept is based on surprise surprise ;) blockchain, where the internet is a distributed network without any central player collecting, storing, and selling your data. Web3 “gives the power and the money back to the people.” Users control their own data. Users get paid for watching ads, for reading articles and playing games. Everybody can hold and transfer digital copyrights, digital currencies, digital art, etc., without the need for lawyers, banks, or authorized dealers. 
 
 
 
