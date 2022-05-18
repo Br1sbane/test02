@@ -5,7 +5,7 @@ description: "This is meta description"
 image: "images/jaime-lopes-0RDBOAdnbWM-unsplash.jpg"
 ---
 
-### Hello, I am a HR Professional, a Project Manager, and a Web 3 Citizen
+### A very warm welcome to the future of HR from your host - an HR Professional, a Project Manager, a New-Ways-of-Working Ambassador and a Web 3 Citizen
 
 Join me on my journey to explore blockchain and its use cases within the Human Resources function. 
 
