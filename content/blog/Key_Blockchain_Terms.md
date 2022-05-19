@@ -49,7 +49,7 @@ As the old saying goes, do not put all eggs in one basket. This is what blockcha
 •	**Smart Contract**: The conditions of a classical contract (if you deliver service X to me, I will pay you amount Y.) can be programmed on a blockchain. Once the event is confirmed, the payment (or the pre-agreed transaction) is triggered automatically with the nice side effect of being fast and cost-efficient.  
 
 
-•	**Trusted intermediaries**: These are the people we rely on to complete a transaction, e.g., banks, brokers, Uber etc. As the blockchain connects sellers and buyers directly, there is no need for any central party or trusted intermediaries. You might have heard: Banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers, etc... 
+•	**Trusted intermediaries**: These are the people we rely on to complete a transaction, e.g., banks, brokers, Uber etc. As the blockchain connects sellers and buyers directly, there is no need for any central party or trusted intermediaries. You might have heard: Banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers, etc.
 
 
 •	**Trustless**: It was very difficult for me to comprehend why trustless might be a positive feature. From a blockchain perspective, this term describes that blockchain transactions can be carried out without approval from a bank, lawyer, or any other middleman. Even if sellers and buyers do not know each other, the blockchain algorithm ensures that the transaction will be completed.     
