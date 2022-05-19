@@ -43,13 +43,13 @@ As the old saying goes, do not put all eggs in one basket. This is what blockcha
 •	**NFT** (non-fungible token) is the digital certificate of ownership, e.g. contemporary digital art stored on a blockchain. Some people question the NFT value as art. Usually, NFTs are collectable items, e.g., animated animals, priced at several thousand USD, but it could be also music or a representation of a real-life object.  
 
 
-•	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it (without asking you) for investments, loans, lavish parties... If the bank misinvests, in the worst case scenario, you might even lose your money. Blockchain eliminates this risk, takes power away from the banks (and any other intermediaries), and gives it back to the owners, who are usually advanced users empowered to protect their data and their digital assets on their own.  
+•	**Non-custodial, also self-custodial**: When you deposit your money in a bank, the bank uses it for investments, loans etc. If the bank misinvests, in the worst case scenario, you might even lose your money. Blockchain eliminates this risk, takes power away from the banks (and any other intermediaries), and gives it back to the owners, who are usually advanced users empowered to protect their data and their digital assets on their own.  
 
 
 •	**Smart Contract**: The conditions of a classical contract (if you deliver service X to me, I will pay you amount Y.) can be programmed on a blockchain. Once the event is confirmed, the payment (or the pre-agreed transaction) is triggered automatically with the nice side effect of being fast and cost-efficient.  
 
 
-•	**Trusted intermediaries**: These are the people we rely on to complete a transaction, e.g., banks, brokers, Uber etc. Blockchain promises to eliminate these completely. You might have heard: Banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers, etc... The blockchain connects sellers and buyers directly without the need for any central party. 
+•	**Trusted intermediaries**: These are the people we rely on to complete a transaction, e.g., banks, brokers, Uber etc. As the blockchain connects sellers and buyers directly, there is no need for any central party or trusted intermediaries. You might have heard: Banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers, etc... 
 
 
 •	**Trustless**: It was very difficult for me to comprehend why trustless might be a positive feature. From a blockchain perspective, this term describes that blockchain transactions can be carried out without approval from a bank, lawyer, or any other middleman. Even if sellers and buyers do not know each other, the blockchain algorithm ensures that the transaction will be completed.     
