@@ -23,7 +23,7 @@ Several big companies, including SAP, Oracle, SHL, Korn Ferry, Randstad and Kell
 
 How will it work? 
 
-•	Employers, educational providers, and credential issuers will upload achievements to the blockchain directly while ensuring data is protected and compliant with regulations, such as the GDPR.
+•	Employers, educational providers, and credential issuers will upload data about achievements to the blockchain. In technical terms, it is only the hash uploaded, so no real data can be viewed by unauthorized persons or leaked incidentally. Only a person who has the key provided by the credential owner has access to the data. This ensures data is protected and compliant with regulations, such as the GDPR. I
 
 •	Recruiters can have access to a database of accurate, compliant, and verified applicant records.
 
@@ -34,7 +34,7 @@ How will it work?
 ![](../images/post-img.jpg)
 Will this be the end of LinkedIn? We will see. 
 
-How about finding a gig on the blockchain? **Braintrust** is the first decentralized talent network. Freelancers find their cleints without any corporation between them. The platform is owned by the users. And this becomes visible with the paycheck.
+How about finding a gig on the blockchain? **Braintrust** is one of the biggest decentralized talent network. Freelancers find their cleints without any corporation between them. The platform is owned by the users. And this becomes visible with the paycheck.
 
 >  Check out the [Braintrust platform](https://www.usebraintrust.com/).
 ![](../images/post-img.jpg)
@@ -47,4 +47,4 @@ How about finding a gig on the blockchain? **Braintrust** is the first decentral
 
 **In educational sector**, blockchain has also its place. Swiss universities have incorporated Blockchain as a subject in the business and IT curricula. Some of them also accept bitcoin for payments.  
 
-The Basel University issues their certificates digitally on blockchain. The same is done also in Singapore and South Africa. This puts an end of the photoshopped credentials, as it can be verified immediately. 
+The Basel University issues their certificates digitally on blockchain. The same is done also in Singapore and South Africa. This puts an end to the photoshopped credentials, as they can be verified immediately. 
