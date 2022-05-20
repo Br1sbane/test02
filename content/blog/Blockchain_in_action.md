@@ -23,7 +23,7 @@ Several big companies, including SAP, Oracle, SHL, Korn Ferry, Randstad and Kell
 
 How will it work? 
 
-•	Employers, educational providers, and credential issuers will upload data about achievements to the blockchain. In technical terms, it is only the hash uploaded, so no real data can be viewed by unauthorized persons or leaked incidentally. Only a person who has the key provided by the credential owner has access to the data. This ensures data is protected and compliant with regulations, such as the GDPR. I
+•	Employers, educational providers, and credential issuers will upload data about achievements to the blockchain. In technical terms, it is only the hash uploaded, so no real data can be viewed by unauthorized persons or leaked incidentally. Only a person who has the key provided by the credential owner has access to the data. This ensures data is protected and compliant with regulations, such as the GDPR.
 
 •	Recruiters can have access to a database of accurate, compliant, and verified applicant records.
 

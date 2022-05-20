@@ -31,10 +31,10 @@ As the old saying goes, do not put all eggs in one basket. This is what blockcha
 
 •	**Immutable**: I bet people will notice it rather quickly if you try to remove a brick from a lower brick wall layer. The same goes for blockchain. Users can add transactions that are placed over one another in a brick wall style. Changing a record (**tampering**) from a lower layer of the blockchain will not go unnoticed and will be sanctioned by the users.  
 
-• **Interoperability**: Do you work in an environment with many HR Systems which do not talk to each other and operate in silos? Most blockchains do not work across other blockchains. Latest generation blockchains are specifically designed to operate with other blockchains. This feature is called interoperability.  
+• **Interoperability**: Do you work in an environment with many HR Systems which do not talk to each other and operate in silos? Most blockchains do not work across other blockchains yet. Latest generation blockchains are specifically designed to operate with other blockchains. This feature is called interoperability.  
 
 
-•	**Open source**: If you publish the receipt of your granny’s famous pumpkin pie, everybody will be able to replicate it. Open-source software works in a similar way: if the code is published, everybody will be able to read it, inspect it, recreate it, improve it, etc. The advantage of it is that undesired functionalities such as user tracking or data collection will be visible. 
+•	**Open Source**: If you publish the receipt of your granny’s famous pumpkin pie, everybody will be able to replicate it. Open-source software works in a similar way: the code is published to serve the public for free, everybody will be able to read it, inspect it, recreate it, improve it, etc. As most blockchains are open source, shady functionalities such as user tracking or data collection become visible. 
 
 
 •	**Peer-to-peer (P2P) network**: When computers are connected directly to each other without a central server. 
@@ -49,13 +49,13 @@ As the old saying goes, do not put all eggs in one basket. This is what blockcha
 •	**Smart Contract**: The conditions of a classical contract (if you deliver service X to me, I will pay you amount Y.) can be programmed on a blockchain. Once the event is confirmed, the payment (or the pre-agreed transaction) is triggered automatically with the nice side effect of being fast and cost-efficient.  
 
 
-•	**Trusted intermediaries**: These are the people we rely on to complete a transaction, e.g., banks, brokers, Uber etc. As the blockchain connects sellers and buyers directly, there is no need for any central party or trusted intermediaries. You might have heard: Banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers, etc.
+•	**Trusted intermediaries**: These are the people we rely on to complete a transaction, e.g. banks, brokers, Uber etc. As the blockchain connects sellers and buyers directly, there is no need for any central party or trusted intermediaries. Have you heard about banking without banks, insurance without insurers, contracts without lawyers, publishing without publishers?
 
 
 •	**Trustless**: It was very difficult for me to comprehend why trustless might be a positive feature. From a blockchain perspective, this term describes that blockchain transactions can be carried out without approval from a bank, lawyer, or any other middleman. Even if sellers and buyers do not know each other, the blockchain algorithm ensures that the transaction will be completed.     
 
 
-•	**Web3** (also «decentralized web», «fair internet», or “next-generation internet”): The concept is based on surprise surprise ;) blockchain, where the internet is a distributed network without any central player collecting, storing, and selling your data. Web3 “gives the power and the money back to the people.” Users control their own data. Users get paid for watching ads, for reading articles and playing games. Everybody can hold and transfer digital copyrights, digital currencies, digital art, etc., without the need for lawyers, banks, or authorized dealers. 
+•	**Web3** (also «decentralized web», «fair internet», or “next-generation internet”): The concept is based on surprise surprise ;) blockchain, where the internet is a distributed network without any central player collecting, storing, and selling your data. Web3 “gives the power and the money back to the people.” Users control their own data. Users get paid for watching ads, for reading articles and playing games. Everybody can hold and transfer digital copyrights, digital currencies, digital art, etc., without the need for lawyers, financial institutions, or authorized dealers. 
 
 
 
