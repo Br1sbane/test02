@@ -68,7 +68,7 @@ Instead of manually calculating and monitoring these cases, these conditions can
 
 ##### **Audit**
 
-Instead of reviewing many copies of documents, auditors can receive access to the blockchain data and conduct a full audit instead of sampling. Blockchain makes data visible; transactions are traceable, approvals and payments are transparent and easy to reconstruct. As Blockchain is “immutable,” data cannot be overwritten or manipulated
+Instead of reviewing many copies of documents, auditors can receive access to the blockchain data and conduct a full audit instead of sampling. Blockchain makes data visible; transactions are traceable, approvals and payments are transparent and easy to reconstruct. As Blockchain is “immutable,” data cannot be overwritten or manipulated.
 
 
 ##### **Real-time reporting**
@@ -78,7 +78,7 @@ If all people's data is stored on a blockchain, Headcount and other important me
 
 ##### **Unstable currencies**
 
-High inflation is a concern for many people around the globe. An elegant solution to it would be a salary in cryptocurrency.
+High inflation is a concern for many people around the globe. An elegant solution to it could be a salary in cryptocurrency.
 
 
 ##### **Employee demand**
