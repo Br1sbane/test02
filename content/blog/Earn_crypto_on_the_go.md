@@ -30,7 +30,7 @@ So, back to the key question: How much have I earned within these two years?
 
 And the answer is a total of 51,974 sats, which is currently around USD 14 and could treat me to two cold beers at a nice bar by the lake. 
 
-While this amount may not seem substantial, earning crypto through these apps is definitely a step in the right direction...
+While this amount may not seem substantial, earning crypto through these apps is definitely a step in the right direction.
 
 So, if you're curious, give it a try and see what the crypto world has in store for you. 
 
