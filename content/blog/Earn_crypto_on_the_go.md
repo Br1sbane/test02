@@ -32,7 +32,7 @@ And the answer is a total of 51,974 sats, which is currently around USD 14 and c
 
 While this amount may not seem substantial, earning crypto through these apps is definitely a step in the right direction.
 
-So, if you're curious, give it a try and see what the crypto world has in store for you. 
+So, if you are curious, give it a try and see what the crypto world has in store for you. 
 
 Happy stacking!
 
