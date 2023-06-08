@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Insights on future HR tech | Homepage</title>
+    <link>https://examplesite.org/categories/business-insights/</link>
+    <description>Recent content in Business Insights on future HR tech | Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Oct 2021 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/categories/business-insights/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to the Future: Crypto Valley Conference 2021</title>
+      <link>https://examplesite.org/blog/crypto_valley_conference_2021/</link>
+      <pubDate>Fri, 29 Oct 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://examplesite.org/blog/crypto_valley_conference_2021/</guid>
+      <description>The future is now and my first live contact with the blockchain community was the Crypto Valley Conference 2021 at the HSLU in Rotkreuz.</description>
+    </item>
+    
+  </channel>
+</rss>

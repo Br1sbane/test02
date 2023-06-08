@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on future HR tech | Homepage</title>
+    <link>https://examplesite.org/tags/business/</link>
+    <description>Recent content in Business on future HR tech | Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Oct 2021 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain in Action</title>
+      <link>https://examplesite.org/blog/blockchain_in_action/</link>
+      <pubDate>Mon, 25 Oct 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://examplesite.org/blog/blockchain_in_action/</guid>
+      <description>A project I follow closely is the one from the Velocity Network Foundation.</description>
+    </item>
+    
+  </channel>
+</rss>

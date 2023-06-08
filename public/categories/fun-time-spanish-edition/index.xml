@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun time (Spanish edition) on future HR tech | Homepage</title>
+    <link>https://examplesite.org/categories/fun-time-spanish-edition/</link>
+    <description>Recent content in Fun time (Spanish edition) on future HR tech | Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Nov 2021 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/categories/fun-time-spanish-edition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chistes de Blockchain en Español</title>
+      <link>https://examplesite.org/blog/spanish_blockchain_jokes/</link>
+      <pubDate>Sat, 06 Nov 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://examplesite.org/blog/spanish_blockchain_jokes/</guid>
+      <description>Aprender tiene que ser divertido. Es por eso que he preparado algunos chistes sobre blockchain.</description>
+    </item>
+    
+  </channel>
+</rss>

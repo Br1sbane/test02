@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advice for beginners on future HR tech | Homepage</title>
+    <link>https://examplesite.org/categories/advice-for-beginners/</link>
+    <description>Recent content in Advice for beginners on future HR tech | Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Oct 2021 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/categories/advice-for-beginners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where to start my Blockchain Journey</title>
+      <link>https://examplesite.org/blog/where_to_start/</link>
+      <pubDate>Thu, 21 Oct 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://examplesite.org/blog/where_to_start/</guid>
+      <description>If you have decided to go down the rabbit hole, congratulations!</description>
+    </item>
+    
+  </channel>
+</rss>
